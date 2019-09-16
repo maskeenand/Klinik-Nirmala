@@ -14,13 +14,13 @@
   <!-- Custom fonts for this template-->
 
 
-  <link href= "{{ url('assets/vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
+  <link href= "{{ 'assets/vendor/fontawesome-free/css/all.min.css' }}" rel="stylesheet" type="text/css">
 
   <!-- Page level plugin CSS-->
-  <link href="{{ url('assets/tovendor/datatables/dataTables.bootstrap4.css')}}" rel="stylesheet">
+  <link href="{{ 'assets/tovendor/datatables/dataTables.bootstrap4.css'}}" rel="stylesheet">
 
   <!-- Custom styles for this template-->
-  <link href="{{ url('assets/css/sb-admin.css')}}" rel="stylesheet">
+  <link href="{{ 'assets/css/sb-admin.css'}}" rel="stylesheet">
 
 </head>
 

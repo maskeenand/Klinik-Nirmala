@@ -67,12 +67,8 @@
                                                                             <td><label for="">Klinik</label></td>
                                                                             <td><input type="text" name="telp" class="form-control" required=""></td>
                                                                             </tr>
-
                                                                         </tbody>
-
-
                                                                 </table>
-
                                                                 </div>
                                                             </div>
                                                         </div>
